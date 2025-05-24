@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudramadhab Mishra</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Data Science" width="400" src="https://giphy.com/gifs/InteractiveFreePythonLab-ai-code-artificial-intelligence-NgCrsvEuMlbpvTSlR0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra234-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="rudra234-mishra" /> </p>
 
